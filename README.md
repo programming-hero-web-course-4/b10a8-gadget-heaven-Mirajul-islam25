@@ -5,7 +5,7 @@ Welcome to Gadget Heaven! This project is a React-based web application that sho
 
 ## 🌐 Live Website
 
-[https://web-dev-assignment-eight.surge.sh/]
+[https://web_dev_assign_eight.surge.sh/]
 
 
 ## 📚 React Fundamentals Used
