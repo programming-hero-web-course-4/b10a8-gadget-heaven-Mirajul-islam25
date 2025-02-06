@@ -1,0 +1,302 @@
+[
+      {
+          "product_id": "P001",
+          "name": "iPhone 15 Pro Max",
+          "img": "https://i.ibb.co.com/sPDpLDF/i-Phone-15-Plus-2-6-5363.jpg",
+          "category": "Phones",
+          "price": 1199.99,
+          "description": "The latest iPhone with an advanced A17 Bionic chip and ProMotion technology.",
+          "Specification": [
+              "6.7-inch Super Retina XDR display",
+              "A17 Bionic chip",
+              "128GB/256GB/512GB/1TB storage options",
+              "48MP Main camera",
+              "Face ID"
+          ],
+          "availability": true,
+          "rating": 4.8
+      },
+      {
+          "product_id": "P002",
+          "name": "Galaxy S23 Ultra",
+          "img": "https://i.ibb.co.com/SBGGqmc/Samsung-Galaxy-S23-Ultra-price.webp",
+          "category": "Phones",
+          "price": 1299.99,
+          "description": "Samsung's flagship with 200MP camera and massive battery life.",
+          "Specification": [
+              "6.8-inch Quad HD+ Dynamic AMOLED 2X",
+              "Snapdragon 8 Gen 2",
+              "12GB RAM",
+              "200MP main camera",
+              "5000mAh battery"
+          ],
+          "availability": true,
+          "rating": 4.7
+      },
+      {
+          "product_id": "P003",
+          "name": "OnePlus 11",
+          "img": "https://i.ibb.co.com/9v11jtT/One-Plus-11-3-4957.jpg",
+          "category": "Phones",
+          "price": 699.99,
+          "description": "OnePlus flagship with Snapdragon 8 Gen 2 and 100W fast charging.",
+          "Specification": [
+              "6.7-inch 120Hz Fluid AMOLED display",
+              "Snapdragon 8 Gen 2",
+              "8GB/16GB RAM options",
+              "50MP main camera",
+              "5000mAh battery with 100W charging"
+          ],
+          "availability": false,
+          "rating": 4.6
+      },
+      {
+          "product_id": "P004",
+          "name": "Nothing Phone 2",
+          "img": "https://i.ibb.co.com/rsC80yK/Nothing-phone-2.jpg",
+          "category": "Phones",
+          "price": 599.99,
+          "description": "The innovative transparent back phone with Glyph interface and solid performance.",
+          "Specification": [
+              "6.55-inch OLED display",
+              "Snapdragon 8+ Gen 1",
+              "12GB RAM",
+              "50MP dual camera setup",
+              "4500mAh battery"
+          ],
+          "availability": true,
+          "rating": 4.5
+      },
+      {
+          "product_id": "L001",
+          "name": "MacBook Pro M2",
+          "img": "https://i.ibb.co.com/QckKPQp/Mac-Book-Pro-M2-8256-GB-13-inch-Space-Gray-b-9673.jpg",
+          "category": "Laptops",
+          "price": 1999.99,
+          "description": "Apple's latest MacBook Pro with M2 chip for powerful performance.",
+          "Specification": [
+              "14-inch Liquid Retina XDR display",
+              "Apple M2 chip",
+              "16GB RAM",
+              "512GB SSD",
+              "20-hour battery life"
+          ],
+          "availability": true,
+          "rating": 4.9
+      },
+      {
+          "product_id": "L002",
+          "name": "Dell XPS 15",
+          "img": "https://i.ibb.co.com/q7czsrJ/Dell-XPS-15-3-3.webp",
+          "category": "Laptops",
+          "price": 1699.99,
+          "description": "High-performance laptop with Intel i9 processor and stunning display.",
+          "Specification": [
+              "15.6-inch OLED 3.5K display",
+              "Intel Core i9 13th Gen",
+              "32GB RAM",
+              "1TB SSD",
+              "GeForce RTX 4070 GPU"
+          ],
+          "availability": false,
+          "rating": 4.8
+      },
+      {
+          "product_id": "S001",
+          "name": "Apple Watch Series 9",
+          "img": "https://i.ibb.co.com/ky4NNNY/Apple-Watch-Series-9-3-6716.jpg",
+          "category": "Smartwatch",
+          "price": 399.99,
+          "description": "The latest Apple Watch with health monitoring and Always-On Retina display.",
+          "Specification": [
+              "41mm/45mm size options",
+              "Dual-core S9 SiP",
+              "Water resistant up to 50 meters",
+              "Heart rate and ECG monitoring"
+          ],
+          "availability": true,
+          "rating": 4.7
+      },
+      {
+          "product_id": "S002",
+          "name": "Galaxy Watch-6",
+          "img": "https://i.ibb.co.com/WyWZ4Pz/Galaxy-Watch6-Silver-Custom-Mac-BD.webp",
+          "category": "Smartwatch",
+          "price": 349.99,
+          "description": "Samsung's latest smartwatch with fitness tracking and Bluetooth calling.",
+          "Specification": [
+              "1.4-inch Super AMOLED display",
+              "Exynos W930 processor",
+              "5ATM water resistance",
+              "Heart rate and SpO2 monitoring"
+          ],
+          "availability": true,
+          "rating": 4.6
+      },
+      {
+          "product_id": "A001",
+          "name": "Sony WH-1000XM5",
+          "img": "https://i.ibb.co.com/9wHyMYL/Sony.jpg",
+          "category": "Accessories",
+          "price": 349.99,
+          "description": "Premium noise-canceling headphones with superior sound quality.",
+          "Specification": [
+              "Bluetooth 5.2",
+              "Active noise cancellation",
+              "30-hour battery life",
+              "Quick charging"
+          ],
+          "availability": true,
+          "rating": 4.8
+      },
+      {
+          "product_id": "A002",
+          "name": "JBL Flip 6",
+          "img": "https://i.ibb.co.com/jgrrbwG/JBL.jpg",
+          "category": "Accessories",
+          "price": 129.99,
+          "description": "Portable Bluetooth speaker with powerful bass and water resistance.",
+          "Specification": [
+              "Bluetooth 5.1",
+              "12-hour battery life",
+              "IP67 waterproof",
+              "20W output"
+          ],
+          "availability": true,
+          "rating": 4.6
+      },
+      {
+          "product_id": "A003",
+          "name": "SanDisk Portable SSD",
+          "img": "https://i.ibb.co.com/SmDs4JJ/sandisk.jpg",
+          "category": "Accessories",
+          "price": 149.99,
+          "description": "Fast and durable SSD for high-speed storage on the go.",
+          "Specification": [
+              "1TB storage",
+              "Up to 1050MB/s read speed",
+              "Water and dust resistant (IP55)",
+              "USB-C interface"
+          ],
+          "availability": true,
+          "rating": 4.7
+      },
+      {
+          "product_id": "V001",
+          "name": "Vaporesso XROS 3",
+          "img": "https://i.ibb.co.com/MfKxbcx/Xros-3-Mini.jpg",
+          "category": "Vapes",
+          "price": 69.69,
+          "description": "Portable and compact vape with long battery life and great flavor production.",
+          "Specification": [
+              "1000mAh battery",
+              "Adjustable airflow",
+              "2mL pod capacity",
+              "Leak-proof design"
+          ],
+          "availability": false,
+          "rating": 4.5
+      },
+      {
+          "product_id": "V002",
+          "name": "SMOK Nord 5",
+          "img": "https://i.ibb.co.com/B3rr3G0/SMOK.webp",
+          "category": "Vapes",
+          "price": 69.69,
+          "description": "Advanced pod system vape with adjustable wattage and high capacity.",
+          "Specification": [
+              "2000mAh battery",
+              "5mL pod capacity",
+              "Adjustable wattage (up to 80W)",
+              "Replaceable coil design"
+          ],
+          "availability": true,
+          "rating": 4.6
+      },
+      {
+          "product_id": "GL001",
+          "name": "Alienware M15 R7",
+          "img": "https://i.ibb.co.com/2v4Qn1x/Dell-Alienware-M15-R7.webp",
+          "category": "Laptops",
+          "price": 2199.99,
+          "description": "The Alienware M15 R7 is a powerful gaming laptop featuring high-end specs and a sleek design.",
+          "Specification": [
+            "Intel Core i9-12900H",
+            "16GB DDR5 RAM",
+            "NVIDIA GeForce RTX 3070 Ti",
+            "1TB SSD",
+            "15.6-inch QHD Display"
+          ],
+          "availability": true,
+          "rating": 4.8
+        },
+        {
+          "product_id": "GL002",
+          "name": "ASUS ROG Strix G15",
+          "img": "https://i.ibb.co.com/CHf8GNq/rog.png",
+          "category": "Laptops",
+          "price": 1899.99,
+          "description": "The ASUS ROG Strix G15 - Advantage Edition is designed for competitive gaming with AMD Ryzen processors and Radeon graphics.",
+          "Specification": [
+            "AMD Ryzen 9 5900HX",
+            "16GB DDR4 RAM",
+            "AMD Radeon RX 6800M",
+            "512GB SSD",
+            "15.6-inch FHD Display"
+          ],
+          "availability": true,
+          "rating": 4.7
+        },
+        {
+          "product_id": "GL003",
+          "name": "MSI Raider GE77",
+          "img": "https://i.ibb.co.com/zshLGYN/msi.jpg",
+          "category": "Laptops",
+          "price": 2499.99,
+          "description": "The MSI Raider GE77 delivers top performance with an Intel Core i7 processor and RTX graphics for serious gaming.",
+          "Specification": [
+            "Intel Core i7-12800H",
+            "32GB DDR5 RAM",
+            "NVIDIA GeForce RTX 3080",
+            "1TB SSD",
+            "17.3-inch UHD Display"
+          ],
+          "availability": false,
+          "rating": 4.6
+        },
+        {
+          "product_id": "VAP231",
+          "name": "Centaurus DNA 250C",
+          "img": "https://i.ibb.co.com/mDsWy90/centauras.webp",
+          "category": "Vapes",
+          "price": 179.99,
+          "description": "High-end vape mod with the DNA 250C chip for customizable vaping experience.",
+          "Specification": [
+            "Chip: DNA 250C",
+            "Material: Stainless Steel",
+            "Output Power: 1-200W",
+            "Battery: Dual 18650",
+            "Display: 0.9-inch TFT color screen"
+          ],
+          "availability": true,
+          "rating": 4.9
+        },
+        {
+          "product_id": "VAP232",
+          "name": "Odin DNA 250C",
+          "img": "https://i.ibb.co.com/Sw9tVrJ/odin.jpg",
+          "category": "Vapes",
+          "price": 189.99,
+          "description": "A sturdy DNA 250C vape mod with excellent temperature control and power options.",
+          "Specification": [
+            "Chip: DNA 250C",
+            "Material: Aluminum Alloy",
+            "Output Power: 1-200W",
+            "Battery: Dual 21700",
+            "Display: 0.96-inch TFT screen"
+          ],
+          "availability": false,
+          "rating": 4.6
+        }
+  ]
+  
