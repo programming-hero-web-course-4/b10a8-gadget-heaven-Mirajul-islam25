@@ -6,7 +6,7 @@ import { Helmet } from 'react-helmet-async';
 const Home = () => {
       return (
             <div>
-            <Helmet><title>Home</title></Helmet>
+            <Helmet><title className='text-3xl'>Home</title></Helmet>
            <Banner></Banner>
            <Products></Products>
         </div>

@@ -1,5 +1,5 @@
 import React from 'react';
-import logoImg from './../../assets/images/shopping-cart 1.png'
+import logoImg from './../../assets/images/banner.jpg'
 import { Link, NavLink, useLocation } from 'react-router-dom';
 import { IoCartSharp } from "react-icons/io5";
 import { FaRegHeart } from "react-icons/fa";
